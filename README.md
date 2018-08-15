@@ -54,6 +54,7 @@
 * [mpvue-iview-weapp](https://github.com/wkl007/mpvue-iview-weapp) -基于mpvue导入iview-weapp
 * [mpvue-jithub](https://github.com/dwqs/mp-jithub) - Mini program for Github, built by mpvue
 * [外卖小程序 Demo](https://github.com/WsmDyj/mpvue) - 类似美团外卖的 UI 和 UE
+* [mpvue-xbyjShop](https://github.com/yllg/mpvue-xbyjShop) - 高仿网易严选 微信小程序商城，前端mpvue 后端nodejs+thinkjs+mysql
 
 ## 模板
 
